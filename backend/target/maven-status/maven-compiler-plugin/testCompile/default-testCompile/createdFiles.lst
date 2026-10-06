@@ -1,0 +1,10 @@
+com\apiproject\dependency\DependencyDeclarationServiceTest.class
+com\apiproject\ingestion\OpenApiParserSmokeTest.class
+com\apiproject\ingestion\SpecResolverTest.class
+com\apiproject\graph\GraphEngineTest.class
+com\apiproject\repository\DependencyRepositoryTest.class
+com\apiproject\repository\DependencyPersistenceTest.class
+com\apiproject\ingestion\EndpointExtractorTest.class
+com\apiproject\graph\GraphSnapshotTest.class
+com\apiproject\dependency\DependencyDeclarationServiceTest$StubLookup.class
+com\apiproject\ingestion\SpecParserTest.class
